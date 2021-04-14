@@ -1,4 +1,4 @@
-# OS-Project-5th-SEM
+# OS-Project-4th-SEM
   The analogy is based upon a hypothetical barber shop with one barber. There is a barber shop which has one barber, one barber chair, and n chairs for waiting for customers if there are any to sit on the chair.
 
 ABSTRACT
